@@ -7,3 +7,4 @@ Határozd meg és írd ki a pilóták darabszámát.
 Írd ki a rajtszám nélküli amerikai pilóták adatait.  
 A legkisebb értékű rajtszám pilótájának mi a nemzetisége? (Csak egy pilóta kapta meg.)  
 Egy-egy rajtszámot több pilóta is megkaphat, írd ki a konzolra ezeket a rajtszámokat.  
+Írj teszteket a fenti feladatmegoldások (metódusok) működésének ellenőrzésére.
