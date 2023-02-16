@@ -1,5 +1,5 @@
 # Pilotak
-File kezelés példafeladat: a megoldás során vedd figyelembe az OOP és a tiszta kód szabályokat!
+File kezelés példafeladat: a megoldás során vedd figyelembe az OOP és a tiszta kód szabályokat!  
 Olvasd be az adatokat a pilotak.csv file-ból egy megfelelő adatszerkezetbe.  
 Határozd meg és írd ki a pilóták darabszámát.  
 Írd ki az utolsó sorban szereplő pilóta nevét.  
